@@ -1,0 +1,14 @@
+.background7{
+    background-image: url('./Theswirlingstaircase-assets/IMAGE.png');
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.background7 > div{
+    padding-left: 60px;
+    width: 285px;
+}

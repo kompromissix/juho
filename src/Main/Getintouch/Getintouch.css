@@ -1,0 +1,20 @@
+.background8{
+    background-color: #CEC4BC;
+    width: 100%;
+    height: 314px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background8 > div{
+    width: 1168px;
+    height: 114px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.background8 h2{
+    font-size: 40px;
+    width: 589px;
+    font-weight: normal;
+}

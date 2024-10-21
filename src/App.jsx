@@ -11,14 +11,7 @@ import Main from './Main/Main';
 function App() {
   return (
     <>
-      <Swiper  modules={[Navigation, Pagination, Scrollbar, A11y, Mousewheel, EffectCube]} autoHeight={true} direction={'vertical'} slidesPerView={1} spaceBetween={30} mousewheel={true} pagination={{clickable: true,}} >
-        <SwiperSlide className='swiper'>
-          <Header/>
-        </SwiperSlide>
-        <SwiperSlide className='swiper23'>
-          <Main/>
-        </SwiperSlide>
-      </Swiper>
+      <Main/>
     </>
   )
 }

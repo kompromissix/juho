@@ -1,0 +1,17 @@
+footer{
+    width: 100%;
+    height: 204px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer > div{
+    width: 1168px;
+    height: 84px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.footer-left img{
+    padding-bottom: 20px;
+}

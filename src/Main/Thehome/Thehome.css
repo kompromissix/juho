@@ -1,0 +1,76 @@
+.background1{
+    height: 720px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.textsleva{
+    width: 50%;
+    height: 720px;
+    background-color: #ECE7E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotosprava{
+    width: 50%;
+    height: 720px;
+}
+.textsleva > div{
+    width: 509px;
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.textsleva h1{
+    font-size: 64px;
+    font-weight: normal;
+}
+.textsleva button{
+    height: 46px;
+    width: 133px;
+    background: none;
+    border: none;
+    font-size: 16px;
+}
+.background2{
+    height: 782px;
+    width: 1920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background2 > div{
+    width: 768px;
+    height: 582px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.background2 h2{
+    font-size: 32px;
+}
+.text-right-lorem{
+    width: 501px;
+    height: 562px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.text-right-lorem-bootom{
+    display: flex;
+    align-items: center;
+}
+.text-right-lorem-bootom > div{
+    padding-left: 30px;
+}
+.text-right-lorem-bootom h3{
+    font-size: 17px;
+}
+.text-right-lorem-top{
+    height: 452px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

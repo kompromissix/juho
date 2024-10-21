@@ -1,0 +1,15 @@
+.background3{
+    background-image: url('./ReedingHouse-assets/IMAGE.png');
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.background3 > div{
+    padding-right: 75px;
+    width: 285px;
+}
